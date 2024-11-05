@@ -6,7 +6,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-// EmailAdapter.kt
+
 class EmailAdapter(private val emailList: List<Email>) :
     RecyclerView.Adapter<EmailAdapter.EmailViewHolder>() {
 

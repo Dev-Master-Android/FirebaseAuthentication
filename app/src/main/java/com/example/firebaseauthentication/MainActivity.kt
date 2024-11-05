@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        setSupportActionBar(binding.toolbar) // Устанавливаем Toolbar как ActionBar
+        setSupportActionBar(binding.toolbar)
 
         val navController = findNavController(R.id.nav_host_fragment)
         setupActionBarWithNavController(navController)
