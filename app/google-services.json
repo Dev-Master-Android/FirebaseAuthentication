@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306698298895",
+    "project_id": "fir-authenticationurban",
+    "storage_bucket": "fir-authenticationurban.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306698298895:android:b6c57710b208b8f838a57a",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwl7rlgD5JHh0ygYQiGcwBR7WXEC4voX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
